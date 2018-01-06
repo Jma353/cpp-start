@@ -1,2 +1,3 @@
-C++ Start - different learning-driven examples / explorations that I'm doing in
-order to properly learn the language.
+C++ Start - different learning-driven examples / explorations for C++.
+
+Examples and learning following the Professional C++ Second Edition: https://www.amazon.com/Professional-C-Marc-Gregoire/dp/0470932449.
